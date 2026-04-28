@@ -1,13 +1,24 @@
 ### Hi, I'm Egemen! 👋
 
-Hi, I'm Egemen. I am a 3rd-year Computer Engineering student at Izmir Institute of Technology (IZTECH). Driven by curiosity and a passion for learning, I strive to bridge the gap between theoretical knowledge and real-world applications. I am dedicated to continuously expanding my skillset and developing innovative solutions to complex problems.
+Hi, I'm Egemen. I am a 3rd-year Computer Engineering student at Izmir Institute of Technology (IZTECH). Driven by curiosity and a passion for learning. I am dedicated to continuously expanding my skillset and developing innovative solutions to complex problems.
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on detecting guitar effects and estimating their parameters in polyphonic music using Deep Learning.
-- 💻 **Interests:** Machine Learning, Deep Learning, Computer Vision, Audio Processing, and their applications on real world probllems.
-- 🌱 **Currently Learning:** Advanced Deep Learning architectures for Computer Vision, Audio Processing, and AI applications in Healthcare.
+
+🔭 I’m currently working on:
+* **Audio Intelligence:** Detecting guitar effects and estimating their parameters in polyphonic music using Deep Learning.
+* **Musicians Tool Kit:** A collaborative mobile application suite for musicians, developed as a group project for the Human-Computer Interaction (HCI) course.
+* **Medical Text-to-HTML:** Developing an NLP model to transform medical database descriptions into structured HTML reports.
+* **NLP Pipelines:** Building and evaluating core architectures for Text Classification, NER, Abstractive Summarization, and Machine Translation.
+
+💻 Interests: Machine Learning, Deep Learning, Computer Vision, Audio Processing, Natural Language Processing (NLP), and their applications on real-world problems.
+
+🌱 Currently Learning:
+* **Core CS & Systems:** Operating Systems and Computer Networks.
+* **AI & Applied ML:** Advanced Deep Learning architectures for Computer Vision, Audio Processing, and Natural Language Processing (NLP).
+* **User-Centric Design:** Human-Computer Interaction (HCI) to build more intuitive applications and digital tools.
+* **Domain Applications:** AI applications and solutions in Healthcare.
   
 ---
 
