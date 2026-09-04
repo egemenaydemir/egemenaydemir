@@ -1,8 +1,12 @@
-### Hi, I'm Egemen! 👋
+<h1 align="center">Hi, I'm Egemen! 👋</h1>
 
-<iframe src="https://giphy.com/embed/3oriNKtJrmloIxFxrG" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pingu-3oriNKtJrmloIxFxrG">via GIPHY</a></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriNKtJrmloIxFxrG/giphy.gif" width="480" alt="Pingu GIF">
+</p>
+<p align="center">
+  Hi, I'm Egemen. I am a 3rd-year Computer Engineering student at Izmir Institute of Technology (IZTECH). Driven by curiosity and a passion for learning. I am dedicated to continuously expanding my skillset and developing innovative solutions to complex problems.
+</p>
 
-Hi, I'm Egemen. I am a 3rd-year Computer Engineering student at Izmir Institute of Technology (IZTECH). Driven by curiosity and a passion for learning. I am dedicated to continuously expanding my skillset and developing innovative solutions to complex problems.
 
 ---
 
