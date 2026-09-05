@@ -124,19 +124,18 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<div align="left">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=egemenaydemir&show_icons=true&theme=dark&hide_border=true&count_private=true"
-    height="150"
-    alt="Egemen's GitHub stats"
+    src="https://github-readme-stats-extended.vercel.app/api?username=egemenaydemir&show_icons=true&theme=github_dark&hide_border=true"
+    height="160"
+    alt="Egemen's GitHub Stats"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=egemenaydemir&layout=compact&theme=dark&hide_border=true"
-    height="150"
-    alt="Egemen's most used languages"
+    src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=egemenaydemir&layout=compact&theme=github_dark&hide_border=true"
+    height="160"
+    alt="Egemen's Top Languages"
   />
-</div>
+</p>
 
 <h2 align="center">Connect with Me</h2>
 
